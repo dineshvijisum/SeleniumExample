@@ -22,6 +22,7 @@ public class ButtonsEx {
 		int yvalue=xypoit.getY();
 		
 		System.out.println("X value is :"+xvalue+"Y value is : "+yvalue);
+		int i,a,ab;
 		System.out.println("X value is :"+xvalue+"Y value is : "+yvalue);
 		
 		//2.Find color
