@@ -7,6 +7,8 @@
  aa aa
  aa aa
  a a a  a
+ aauy aua 
+ aihu
 
  aahba agyya 
  auyga ytya 
