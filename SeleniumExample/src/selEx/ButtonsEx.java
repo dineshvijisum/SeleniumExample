@@ -22,7 +22,7 @@ public class ButtonsEx {
 		int yvalue=xypoit.getY();
 		
 		System.out.println("X value is :"+xvalue+"Y value is : "+yvalue);
-		
+		int i,a,ab;
 		//2.Find color
 		
 		WebElement findColor=driver.findElement(By.id("j_idt88:j_idt96"));
